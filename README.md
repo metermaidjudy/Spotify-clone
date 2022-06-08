@@ -7,3 +7,12 @@ Like the official app, if a user is not authenticated, they can still browse and
 Non-authenticated app demonstration
 
 If a user login to a premium account (due to the limitation of the available API, free accounts cannot do much), user can access certain routes to their own playlists, saved items, etc. and use the app as a remote control player to any playing official (no direct streaming is available through the API)
+
+
+
+![RemotePlay](https://user-images.githubusercontent.com/86848213/172656816-9a3f60ac-e417-4563-9b1e-f331d24914ed.gif)
+
+
+
+*Created by 
+Aparna*
