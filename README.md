@@ -10,8 +10,9 @@ If a user login to a premium account (due to the limitation of the available API
 
 
 
-![RemotePlay](https://user-images.githubusercontent.com/86848213/172656816-9a3f60ac-e417-4563-9b1e-f331d24914ed.gif)
 
+
+![RemotePlay](https://user-images.githubusercontent.com/86848213/172657228-da385ad3-f157-4fc9-9947-2049e0b37d7c.jpg)
 
 
 *Created by 
